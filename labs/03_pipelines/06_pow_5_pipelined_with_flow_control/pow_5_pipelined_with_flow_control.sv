@@ -17,7 +17,7 @@ module pow_5_pipelined_with_flow_control
   output [width - 1:0] down_data
 );
 
-  // TODO: Implement the module based on 
+  // TODO: Implement the module based on
   //
   // ../03_pipelines/04_pow_5_pipelined_without_flow_control
   //   /pow_5_pipelined_without_flow_control.sv
